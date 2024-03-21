@@ -2,12 +2,14 @@
 IS2024 - Trabajo Final Integrador - Grupo N° 9 
 
 ## Integrantes
-- Lucas Dante Depetris
-- Camila Rodríguez
+- [Lucas Dante Depetris](https://github.com/lucasdepetrisd)
+- [Camila Rodríguez](https://github.com/rod-cami)
 
-## Backend
+# Frontend
 
-### Tecnologías Utilizadas
+# Backend
+
+## Tecnologías Utilizadas
 - Desarrollamos una API en .NET Core 8 para el backend, la cual se comunica con una base de datos SQL Server para la persistencia de datos. Desplegamos a ambos en los servicios de Azure para garantizar su disponibilidad y escalabilidad.
 - Construimos tests unitarios y de aceptación con Gherkin utilizando Specflow.
 - Creamos un flujo automatizado en GitHub Actions para CI/CD.
@@ -18,14 +20,20 @@ IS2024 - Trabajo Final Integrador - Grupo N° 9
   - Link al último flujo de GH Actions: [Build test and deploy ASP.Net Core app to Azure Web App - GitHub Actions
 ](https://github.com/lucasdepetrisd/TiendaAPI/actions/runs/8335155080)
 
-### Arquitectura
+## Arquitectura
 ![Arquitectura](https://github.com/lucasdepetrisd/TiendaAPI/blob/main/docs/Arquitectura.png)
 
-### Test Automatizados
+## Test Automatizados
 ![Resultados Tests](https://github.com/lucasdepetrisd/TiendaAPI/blob/main/docs/LivingDocs.png)
 
-### Diagrama de Clases
+
+
+---
+
+# Anexos
+
+## Diagrama de Clases
 ![Diagrama de Clases](https://github.com/lucasdepetrisd/TiendaAPI/blob/main/docs/ClassDiagram.png)
 
-### Diagrama de Base de Datos
+## Diagrama de Base de Datos
 ![Diagrama de Base de Datos](https://github.com/lucasdepetrisd/TiendaAPI/blob/main/docs/DatabaseDiagram.png)
